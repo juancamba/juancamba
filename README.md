@@ -55,7 +55,7 @@ A **beginner-friendly C# course** that starts from the fundamentals and graduall
 - **Net Architect**
 - **Tech Lead**
 - **International Speaker? Well i've got a Youtube Channel so ... yes! I'm an international speaker😂**
-- **3.6k+ followers on YouTube**
+- **3.9k+ followers on YouTube**
 
 ## 🤝 Connect with me
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@CambaCodeLabs)
