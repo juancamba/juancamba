@@ -43,11 +43,12 @@ A **beginner-friendly C# course** that starts from the fundamentals and graduall
 [![Linux for Beginners: Zero to Expert](https://img.shields.io/badge/-Linux%20Course%20Beginner%20to%20Expert-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/vg5kLwAy4Lo)
 
 
-## 📺 Latest Blog Posts
+## Latest Blog Posts
 
 - [Cheat Sheet Scrum](https://www.linkedin.com/posts/juan-camba-carballeira_cheat-sheet-de-lo-b%C3%A1sico-de-scrum-muchas-activity-7391914620984217600-gSAL?utm_source=share&utm_medium=member_desktop&rcm=ACoAABJ21zMBbJGHZ7r2C6r4njraI4B0hbOFy_8)
-
 - [Unit Tests vs Integration Tests: Understanding the Differences and using Mocks](https://medium.com/@juancamba/unit-tests-vs-integration-tests-understanding-the-differences-and-using-mocks-a8459cb8575a)
+- [The Strategy Pattern: A real world example](https://medium.com/@juancamba/the-strategy-pattern-a-real-world-example-9b97289b45a9)
+- [The Decorator Pattern in C#: Real-World Scenario: E-commerce Product Discounts](https://medium.com/@juancamba/the-decorator-pattern-in-c-real-world-scenario-e-commerce-product-discounts-3172bc206866)
 
 ## Milestones
 
