@@ -52,7 +52,7 @@ A **beginner-friendly C# course** that starts from the fundamentals and graduall
 
 ## Milestones
 
-- **Net Architect**
+- **.Net Architect**
 - **Tech Lead**
 - **International Speaker? Well i've got a Youtube Channel so ... yes! I'm an international speaker😂**
 - **3.9k+ followers on YouTube**
